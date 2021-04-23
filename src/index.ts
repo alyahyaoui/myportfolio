@@ -1,8 +1,8 @@
 //? getters and setters make you able to access properties and modify em from outside of the class
-import Header from './modules/header.js';
-import Drawer from './modules/drawer.js';
-import Main from './modules/main.js';
-import Footer from './modules/footer.js';
+import Header from './modules/header';
+import Drawer from './modules/drawer';
+import Main from './modules/main';
+import Footer from './modules/footer';
 
 class App {
 	static render() {
